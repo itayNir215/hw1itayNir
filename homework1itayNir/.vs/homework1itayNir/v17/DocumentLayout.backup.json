@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1itayNir\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1itayNir\\node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1.2itayNir\\node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\tester2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1.2itayNir\\tester2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1.2itayNir\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1.2itayNir\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1.2itayNir\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|solutionrelative:homework1itayNir\\main1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\tester1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|solutionrelative:homework1itayNir\\tester1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|solutionrelative:homework1itayNir\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BEE3F59-A852-4245-B041-ECA28A6D6494}|homework1.2itayNir\\homework1.2itayNir.vcxproj|solutionrelative:homework1itayNir\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4471849E-0C47-4D91-842A-0ED91E3C7001}|homework1itayNir\\homework1itayNir.vcxproj|solutionrelative:homework1itayNir\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:homework1itayNir\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "node.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\node.h",
+              "RelativeDocumentMoniker": "homework1.2itayNir\\node.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\node.h",
+              "RelativeToolTip": "homework1.2itayNir\\node.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T17:32:41.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "node.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\node.cpp",
+              "RelativeDocumentMoniker": "homework1itayNir\\node.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\node.cpp",
+              "RelativeToolTip": "homework1itayNir\\node.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T17:24:12.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main1.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\main1.cpp",
+              "RelativeDocumentMoniker": "homework1itayNir\\main1.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\main1.cpp",
+              "RelativeToolTip": "homework1itayNir\\main1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:26:44.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stack.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\stack.cpp",
+              "RelativeDocumentMoniker": "homework1itayNir\\stack.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\stack.cpp",
+              "RelativeToolTip": "homework1itayNir\\stack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:37:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\main2.cpp",
+              "RelativeDocumentMoniker": "homework1.2itayNir\\main2.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\main2.cpp",
+              "RelativeToolTip": "homework1.2itayNir\\main2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:36:28.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stack.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\stack.h",
+              "RelativeDocumentMoniker": "homework1.2itayNir\\stack.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\stack.h",
+              "RelativeToolTip": "homework1.2itayNir\\stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T16:38:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "utils.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\utils.h",
+              "RelativeDocumentMoniker": "homework1.2itayNir\\utils.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\utils.h",
+              "RelativeToolTip": "homework1.2itayNir\\utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T16:43:16.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tester2.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\tester2.cpp",
+              "RelativeDocumentMoniker": "homework1.2itayNir\\tester2.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1.2itayNir\\tester2.cpp",
+              "RelativeToolTip": "homework1.2itayNir\\tester2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:47:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "stack.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\stack.h",
+              "RelativeDocumentMoniker": "homework1itayNir\\stack.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\stack.h",
+              "RelativeToolTip": "homework1itayNir\\stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T17:29:22.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tester1.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\tester1.cpp",
+              "RelativeDocumentMoniker": "homework1itayNir\\tester1.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\tester1.cpp",
+              "RelativeToolTip": "homework1itayNir\\tester1.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:45:31.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\queue.cpp",
+              "RelativeDocumentMoniker": "homework1itayNir\\queue.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\queue.cpp",
+              "RelativeToolTip": "homework1itayNir\\queue.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T15:05:47.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "utils.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\utils.cpp",
+              "RelativeDocumentMoniker": "homework1itayNir\\utils.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\utils.cpp",
+              "RelativeToolTip": "homework1itayNir\\utils.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T16:30:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "queue.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\queue.h",
+              "RelativeDocumentMoniker": "homework1itayNir\\queue.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\source\\repos\\homework1itayNir\\homework1itayNir\\queue.h",
+              "RelativeToolTip": "homework1itayNir\\queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T15:05:59.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

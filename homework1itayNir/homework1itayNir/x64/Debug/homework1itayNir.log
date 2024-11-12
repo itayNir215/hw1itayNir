@@ -1,0 +1,6 @@
+﻿  tester1.cpp
+C:\Users\Cyber_User\source\repos\homework1itayNir\homework1itayNir\tester1.cpp(17,9): warning C4005: 'PURPLE': macro redefinition
+      C:\Users\Cyber_User\source\repos\homework1itayNir\homework1itayNir\tester1.cpp(11,9):
+      see previous definition of 'PURPLE'
+  
+  homework1itayNir.vcxproj -> C:\Users\Cyber_User\source\repos\homework1itayNir\x64\Debug\homework1itayNir.exe
